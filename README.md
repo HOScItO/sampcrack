@@ -5,12 +5,12 @@ SAMPHACK is a modification for SAMP, it created to use<br>
 it to play more confortable SAMP, but some people use it<br>
 at cheat client as the name! It include teleports, weapons,<br>
 and other cool stuff :
+### Includes :
+<b> - Fast Map / AntiCrasher / FPS Unlocker... 
 <br><br>Teleport Menu :<br><br>
 ![Alt text](images/teleport.jpg)
 <br><br>Vehicle Menu :<br><br>
 ![Alt text](images/vehicle.jpg)
-<br><br>Client Menu :<br><br>
-![Alt text](images/client.jpg)<br>
 
 ### Instalation <hr>
 The instalation is very easy, you need to download the<br>
