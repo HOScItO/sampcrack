@@ -1,4 +1,4 @@
-## SAMPHACK v4k21 by Catalin Grigoriev
+## SAMPHACK v8k37 by Catalin Grigoriev
 ![Alt text](images/menu.jpg)
 ### Introduction <hr>
 SAMPHACK is a modification for SAMP, it created to use<br>
