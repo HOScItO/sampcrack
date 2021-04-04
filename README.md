@@ -6,7 +6,12 @@ it to play more confortable SAMP, but some people use it<br>
 at cheat client as the name! It include teleports, weapons,<br>
 and other cool stuff :
 ### Includes :
-<b> - Fast Map / AntiCrasher / FPS Unlocker... 
+<b> - Fast Map / AntiCrasher / FPS Unlocker...
+### Keybinds :
+- (RSHIFT) Slap yourself up
+- (Z+X) Unlock Animation
+- (ALT) SpeedHack
+- (N+M) Fast Map
 <br><br>Teleport Menu :<br><br>
 ![Alt text](images/teleport.jpg)
 <br><br>Vehicle Menu :<br><br>
