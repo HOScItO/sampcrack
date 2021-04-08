@@ -1,16 +1,20 @@
 ## SAMPHACK v13k21 by Catalin Grigoriev
-![Alt text](images/menu.jpg)
+![Alt text](https://i.imgur.com/zUT4fGd.png)
+![Alt text](https://i.imgur.com/lbjKyeT.png)
+![Alt text](https://i.imgur.com/SKGB3P2.png)
 ### Introduction <hr>
 SAMPHACK is a modification for SAMP, it created to use<br>
 it to play more confortable SAMP, but some people use it<br>
 at cheat client as the name! It include teleports, weapons,<br>
 and other cool stuff :
 ### Includes :
-<b> - Fast Map / AntiCrasher / FPS Unlocker... 
-<br><br>Teleport Menu :<br><br>
-![Alt text](images/teleport.jpg)
-<br><br>Vehicle Menu :<br><br>
-![Alt text](images/vehicle.jpg)
+<b> - AntiCrasher + FPS Booster
+### Keybinds :
+- (RSHIFT) Slap yourself up
+- (Z+X) Unlock Animation
+- (ALT) SpeedHack
+- (N+M) Fast Map
+- (F2) Repair & Flip Car
 
 ### Instalation <hr>
 The instalation is very easy, you need to download the<br>
